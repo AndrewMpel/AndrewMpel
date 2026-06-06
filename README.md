@@ -1,7 +1,7 @@
 # Andreas Belias
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Machine+Learning;Data+Science;Low-Level+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Machine+Learning;Data+Science" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,8 +11,8 @@ I'm a software engineer driven by a deep curiosity for how things work—both at
 
 **What I focus on:**
 * **AI,ML & Data**
+* **Computer Vision**
 * **Systems Programming**
-* **Backend**
 ---
 
 ### Technical Arsenal
