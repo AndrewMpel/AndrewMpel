@@ -7,7 +7,8 @@
 ---
 
 ### Academic & Professional Interests
-I'm a software engineer driven by a deep curiosity for how things work—both at the micro and macro levels. I love taking systems apart to understand the raw, fundamental mechanics of low-level programming, while simultaneously exploring the hidden stories and patterns within massive datasets through Data Science. For me, software engineering is all about following that curiosity to piece together complex puzzles.
+Computer Science and Telecommunications student passionate about AI/ML, Computer Vision, Smart Infrastructure and emerging technologies.
+Interested in building intelligent systems that combine machine learning, mobile development, APIs and real-world data
 
 **What I focus on:**
 * **AI,ML & Data**
